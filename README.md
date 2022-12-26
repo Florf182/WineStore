@@ -1,9 +1,5 @@
-# Entrega Intermedia de Proyecto Final (Coderhouse Python 31090)
+# Entrega Intermedia de Proyecto Final 
 
-## Miembros del equipo
-- Lucía Gómez Salinas
-- Manuel Florez
-- Luis Pablo Segovia
 
 ## Proyecto: Vinos
 El proyecto se basa en un e-commerce de vinos.
